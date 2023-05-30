@@ -230,4 +230,8 @@ transition: background 1s ease;
 }.section-4{
     background: linear-gradient(#B392E3,#98a8f7);
 }
-/* ==================================================================section-4 */
+/* ==================================================================section-buy */
+.section-buy{
+background: linear-gradient(to right top, #6d327c, #485DA6, #00a1ba, #00BF98, #36C486);
+min-height: 100vh;
+}
